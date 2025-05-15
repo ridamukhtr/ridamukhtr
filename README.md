@@ -23,7 +23,7 @@ Skills and Expertise
 
  Email: ridamukhtar638@gmail.com
 
- LinkedIn: Rida Mukhtar
+ LinkedIn: [Rida Mukhtar](https://www.linkedin.com/in/rida-mukhtar-750511262/)
  
  Let's connect and build something amazing together! 😊
 
