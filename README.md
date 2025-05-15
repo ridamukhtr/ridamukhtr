@@ -22,12 +22,8 @@ Skills and Expertise
   Get in Touch I'm always open to collaborating on interesting projects or discussing new ideas. You can reach out to me via:
 
  Email: ridamukhtar638@gmail.com
+
  LinkedIn: Rida Mukhtar
+ 
  Let's connect and build something amazing together! 😊
 
-  Get in Touch
-  I'm always open to collaborating on interesting projects or discussing new ideas. You can reach out to me via:
-
-  **Email**: ridamukhtar638@gmail.com
-  **LinkedIn**: Rida Mukhtar
-  Let's connect and build something amazing together! 😊
