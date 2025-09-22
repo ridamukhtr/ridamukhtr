@@ -2,7 +2,7 @@
 Welcome to My GitHub Profile 👋
 👋 Hi, I'm Rida Mukhtar
 
-I'm a passionate Frontend Developer with over 2 years of experience building responsive web and mobile applications using **React.js** and **React Native**. I love crafting clean, user-friendly UIs and turning ideas into real-world applications.
+I'm a passionate Frontend Developer with over 2 years of experience building responsive web and mobile applications using **Vue3** **React.js** and **React Native**. I love crafting clean, user-friendly UIs and turning ideas into real-world applications.
 
 💞️ I’m looking to collaborate on innovative web and mobile app projects
 📫 You can reach me via email at ridamukhtar638@gmail.com
@@ -10,7 +10,7 @@ I'm a passionate Frontend Developer with over 2 years of experience building res
 ⚡ Fun Fact: I love experimenting with new tech stacks and creating interactive user experiences!
 
 Skills and Expertise
--  **Frontend Development**: React.js, React Native
+-  **Frontend Development**: React.js, React Native, Vue3
 -  **Mobile Development**: React Native CLI & Expo
 -  **UI Styling**: HTML, CSS, Tailwind CSS, Styled Components
 -  **Programming Languages**: JavaScript, TypeScript
